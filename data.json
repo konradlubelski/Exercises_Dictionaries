@@ -1,0 +1,23 @@
+{
+    "person_1": {
+        "surname": null,
+        "name": null,
+        "age": null,
+        "profession": null,
+        "marital status": null
+    },
+    "person_2": {
+        "surname": null,
+        "name": null,
+        "age": null,
+        "profession": null,
+        "marital status": null
+    },
+    "person_3": {
+        "surname": null,
+        "name": null,
+        "age": null,
+        "profession": null,
+        "marital status": null
+    }
+}
